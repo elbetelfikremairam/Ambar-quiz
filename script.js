@@ -1,6 +1,6 @@
 const quizData=[ {
 
-question:"When did we meet?",
+question:"When did i meet?",
 a:"september 4th",
 b: "october 11th",
 c:"september 27th",
